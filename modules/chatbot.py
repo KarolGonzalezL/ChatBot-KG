@@ -9,7 +9,7 @@ from modules.logger import logger
 import logging
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 #import logging
 
